@@ -1,13 +1,13 @@
-.my_class_0003 {
+ .my_class_0003 {
   display: flex;
   align-items: center; /* Alignement vertical */
   justify-content:space-between; /* Espacement entre les éléments */
   padding: 20px;
   background-color: white;
-}
-.menu {
+ }
+ .menu {
   flex: 1; 
-}
+ }
 body {
   margin: 0;
   padding: 0;
